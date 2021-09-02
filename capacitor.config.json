@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "techNews",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

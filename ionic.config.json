@@ -1,0 +1,7 @@
+{
+  "name": "techNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
