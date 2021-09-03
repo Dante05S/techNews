@@ -1,0 +1,35 @@
+.fondo{
+  background-image: url(../../../assets/img/tech/image-five.jpg);
+  background-size: cover;
+  background-position: left 52%;
+  height: 350px;
+  width: 100%;
+  display: flex;
+  z-index: -1;
+  align-items:center;
+  margin-top: 60px;
+}
+
+h3{
+  margin: 0;
+  font-weight: bold;
+}
+
+.titulo
+{
+  margin-left: 25px;
+  width: 47%;
+}
+
+ion-button{
+  --border-radius: none;
+  --box-shadow: none;
+  --border-style: solid;
+  --border-color: #fff;
+  --border-width: 1px;
+}
+
+p
+{
+  font-size: 14px;
+}
